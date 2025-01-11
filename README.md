@@ -10,6 +10,9 @@ This project aims to address the global challenge of Diabetic Retinopathy (DR), 
 - **Approach:** Ensemble method using majority voting to combine the strengths of individual models.
 - **Deployment:** A user-friendly Streamlit-based web application for real-time predictions.
 
+### Trained Models
+https://drive.google.com/drive/folders/1AM_JD2PEzEBeth3cSgsGK8Q97vl_DhdF?usp=drive_link
+
 ### Screenshots of Application
 The final model is deployed in a Streamlit web application, which allows clinicians to upload retinal images and receive predictions on DR severity.
 

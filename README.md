@@ -14,6 +14,6 @@ This project aims to address the global challenge of Diabetic Retinopathy (DR), 
 https://drive.google.com/drive/folders/1AM_JD2PEzEBeth3cSgsGK8Q97vl_DhdF?usp=drive_link
 
 ### Screenshots of Application
-The final model is deployed in a Streamlit web application, which allows clinicians to upload retinal images and receive predictions on DR severity.
+The chosen model (EfficientNetB0) was deployed in a Streamlit web application, which allows clinicians to upload retinal images and receive predictions on DR severity. 
 
 <img width="611" alt="image" src="https://github.com/user-attachments/assets/ff4cdff6-0000-4160-a679-5bd2137ad552" />
